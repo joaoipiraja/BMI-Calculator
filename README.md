@@ -10,4 +10,4 @@ How to use Segues for interactions between views, MVC Design Pattern
 [<img src="/screenshots/screenshot1.png" width="250" />](screenshot1.png)
 
 
-#### With my authorial icon illustrations! 🎨
+#### With my authorial icon illustration! 🎨
